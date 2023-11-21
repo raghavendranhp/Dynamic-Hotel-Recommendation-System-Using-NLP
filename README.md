@@ -84,10 +84,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## Author
-Raghavendran S,
-Aspiring Data Scientist
-[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)
-raghavendranhp@gmail.com
+Raghavendran S,  
+Aspiring Data Scientist  
+[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)  
+raghavendranhp@gmail.com  
 
-Thank You !
+Thank You !  
 Happy Enjoying !
