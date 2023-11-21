@@ -81,6 +81,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Feel free to customize this template according to the specific details of your project. Update the installation instructions, usage examples, and other sections based on your project's requirements. Additionally, don't forget to include a license file if needed.
+
+## Author
+Raghavendran S,
+Aspiring Data Scientist
+[LinkedIN Profile](https://www.linkedin.com/in/raghavendransundararajan/)
+raghavendranhp@gmail.com
+
+Thank You !
+Happy Enjoying !
